@@ -54,5 +54,3 @@ INSPECT is a bash script designed to provide a quick overview of security-relate
     Identifies files with capabilities on the system.
 
 ---
-
-Make sure to replace the placeholder `https://example.com/INSPECT` with the actual URL if you plan to host the script on GitHub or any other platform.
