@@ -8,21 +8,19 @@ INSPECT is a bash script designed to provide a quick overview of security-relate
 1. **Download the script:**
 
     ```bash
-    wget https://example.com/INSPECT
+    wget https://github.com/AhmedSherifRashwan/Inspect/blob/main/inspect.sh
     ```
-
-    Replace `https://example.com/INSPECT` with the actual URL of the script if hosted remotely.
 
 2. **Make the script executable:**
 
     ```bash
-    chmod +x INSPECT
+    chmod +x inspect.sh
     ```
 
 3. **Run the script:**
 
     ```bash
-    ./INSPECT
+    ./inspect.sh
     ```
 
     Note: Some commands may require elevated privileges, and you might be prompted to enter your password.
